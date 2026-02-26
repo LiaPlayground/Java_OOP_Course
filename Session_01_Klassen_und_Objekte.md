@@ -1,5 +1,5 @@
 <!--
-author:   Ihr Name
+author:   Sebastian Zug
 email:    your@email.de
 version:  0.1.0
 language: de
@@ -11,6 +11,8 @@ import:   https://raw.githubusercontent.com/LiaScript/CodeRunner/master/README.m
           https://raw.githubusercontent.com/liascript-templates/plantUML/master/README.md
 -->
 
+https://bit.ly/4aG2EEk
+
 # Session 1: Klassen und Objekte in Java
 
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/Java_OOP_Course/refs/heads/main/Session_01_Klassen_und_Objekte.md)
@@ -21,6 +23,7 @@ import:   https://raw.githubusercontent.com/LiaScript/CodeRunner/master/README.m
 > - Klassen mit Attributen und Methoden definieren
 > - Objekte erzeugen und nutzen
 > - Konstruktoren verstehen und schreiben
+>
 
 ## Einstiegsdiagnose: Was kannst du schon?
 

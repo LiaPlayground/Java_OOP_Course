@@ -1,5 +1,5 @@
 <!--
-author:   Ihr Name
+author:   Sebastian Zug
 email:    your@email.de
 version:  0.1.0
 language: de
